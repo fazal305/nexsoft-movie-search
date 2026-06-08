@@ -1,0 +1,41 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+.env.local
+
+# Node Modules
+node_modules/
+
+# Build Output
+dist/
+build/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Cache
+.cache/
+
+# Coverage
+coverage/
+
+# npm
+npm-debug.log*
+
+# Yarn
+yarn-debug.log*
+yarn-error.log*
